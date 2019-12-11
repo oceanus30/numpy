@@ -13,4 +13,6 @@ c = b.reshape(b.shape[0],b.shape[1])
 print(c.shape)
 print(c)
 print(b)
-print(a)
+
+#test4
+print(c)
